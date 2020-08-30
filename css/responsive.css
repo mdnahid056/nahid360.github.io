@@ -1,0 +1,188 @@
+@media(min-width:360px){
+    .section7{
+        margin-top:970px;
+         height: 900px;
+    }
+   .clsd{
+       margin-top:90px;
+   }
+   .nj h1{
+       margin-top: 770px;
+   }
+   .stn{
+       margin-top: 30px;
+
+   }
+
+   .carousel-indicators{
+    position: absolute;
+    right: 0;
+    top:1230px!important;
+}
+.stn2{
+    margin-top:10px;
+
+}
+   .rb{
+       margin-top:10px;
+   }
+ 
+
+
+}
+/*==================  sm 480===================*/
+@media(min-width:480px){
+    .section7{
+        margin-top:970px;
+         height: 900px;
+    }
+   .clsd{
+       margin-top:90px;
+   }
+   .nj h1{
+       margin-top: 770px;
+   }
+   .stn{
+       margin-top: 30px;
+
+   }
+
+   .carousel-indicators{
+    position: absolute;
+    right: 0;
+    top:1080px!important;
+}
+.stn2{
+    margin-top:20px;
+
+}
+   .rb{
+       margin-top:20px;
+   }
+
+
+
+}
+
+/*---------------- small device   margin-top:970px;
+        height: 900px;----------------*/
+
+
+@media (min-width: 576px) { 
+
+  
+  .clsd{
+      margin-top:200px;
+  }
+  .nj h1{
+      margin-top: 740px;
+  }
+  .stn{
+    margin-top: 30px;
+
+}
+.section7{
+    margin-top:970px;
+     height: 900px;
+}
+.stn2{
+    margin-top:30px;
+
+}
+   .rb{
+       margin-top:30px;
+   }
+   .carousel-indicators{
+    position: absolute;
+    right: 0;
+    top:1120px!important;
+}
+
+
+    
+ }
+
+@media (min-width: 768px) { 
+    .section7{
+        margin-top:970px;
+         height: 900px;
+    }
+   .clsd{
+       margin-top:90px;
+   }
+   .nj h1{
+       margin-top: 770px;
+   }
+   .stn{
+       margin-top:60px;
+
+   }
+  
+   .carousel-indicators{
+    position: absolute;
+    right: 0;
+    top:1080px!important;
+}
+
+
+ }
+
+@media (min-width: 992px) { 
+    .section7{
+        margin-top:-90px;
+         height: 800px;
+         position: relative;
+         bottom: 200px;
+         z-index: 1;
+    }
+   .clsd{
+       margin-top:60px;
+   }
+   .nj h1{
+       margin-top:-80px;
+   }
+   .stn{
+       margin-top:0px;
+
+   }
+  
+   .carousel-indicators{
+    position: absolute;
+    right: 0;
+    top:500px!important;
+
+ }
+   .contact{
+       height: 700px;
+   }
+.footer{
+    width: 1005;
+    height: auto;
+    padding: 70px;
+    background: #00abff;
+    position: relative;
+    z-index: 1000;
+    top:13vh;
+}
+
+
+}
+
+@media (min-width: 1200px) {
+    .footer{
+        width: 1005;
+        height: auto;
+        padding: 70px;
+        background: #00abff;
+        position: relative;
+        z-index: 1000;
+        margin-top: auto;
+    }
+    .clsd{
+        margin-top:40px;
+    }
+    .nj h1{
+        margin-top:80px;
+    }
+
+ }
